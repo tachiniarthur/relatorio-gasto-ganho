@@ -29,7 +29,7 @@
 
 <div align="center">
 
-  <img src="https://lh3.googleusercontent.com/pw/AJFCJaXvQei7L88OwoJhjIFpcdcM0uw1f5LZ4AT96c4lhyTfxU__wA0-3aqJ34y0rwUuaFw_NCZz8NXvrbn4Qpc_blYmRNBDdMVtCNuo_Nt32Y0-1gsMJdehglxQn3JDwsEuRkcto4NOltFdGifO4kJb5uux=w875-h307-s-no?authuser=0" alt="Diagrama de classe UML">
+  <img src="https://lh3.googleusercontent.com/pw/AJFCJaXvQei7L88OwoJhjIFpcdcM0uw1f5LZ4AT96c4lhyTfxU__wA0-3aqJ34y0rwUuaFw_NCZz8NXvrbn4Qpc_blYmRNBDdMVtCNuo_Nt32Y0-1gsMJdehglxQn3JDwsEuRkcto4NOltFdGifO4kJb5uux=w875-h307-s-no?authuser=0" alt="https://photos.app.goo.gl/DcC2hDM7i7Ei8HEC6">
 
 </div>
 
