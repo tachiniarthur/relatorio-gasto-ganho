@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=34&duration=1&pause=1&color=0079AF&center=true&vCenter=true&repeat=false&width=520&height=40&lines=Trabalho+-+Relat%C3%B3rios+financeiros" alt="Título do Trabalho de Relatórios">
+  <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=34&duration=1&pause=1&color=0079AF&center=true&vCenter=true&repeat=false&width=520&height=40&lines=Trabalho+-+Relat%C3%B3rio+financeiro" alt="Título do Trabalho de Relatórios">
 
 </div>
 
